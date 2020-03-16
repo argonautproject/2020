@@ -19,6 +19,7 @@ Please join the relevant Zulip streams at https://chat.fhir.org to join in discu
 * [Granular Controls](https://chat.fhir.org/#narrow/stream/179170-smart/topic/Argonaut.20Announcements)
 * [Patient Lists](https://chat.fhir.org/#narrow/stream/227046-Argo-Patient.20Lists/topic/Argonaut.20Announcements)
 
+We've also got full meeting notes, slide decks, and surveys for all projects [available in Google Drive](https://drive.google.com/drive/folders/1src1D6ivAIi1WcRgRrOHvm6-VFFnP7yR)
 
 ## Meeting Schedule
 
