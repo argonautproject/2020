@@ -24,7 +24,7 @@ We've also got full meeting notes, slide decks, and surveys for all projects [av
 ## Meeting Schedule
 
 We'll host two types of calls:
- * **Project-speicfic technical "Workgoup" calls every other week.** These are intended for small-group discussion of
+ * **Project-specific technical "Workgoup" calls every other week.** These are intended for small-group discussion of
    the evolving specifications, and we're encouraging folks to join these calls  only if you're actively contributing
    to the technical specifications. We'll keep detailed notes and provide routine status updates so everyone can keep tabs.
  * **Cross-project "Checkpoint" calls monthly**. These are community-wide update calls, intended for broader discussion
