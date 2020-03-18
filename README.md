@@ -23,6 +23,9 @@ We've also got full meeting notes, slide decks, and surveys for all projects [av
 
 ## Meeting Schedule
 
+For scheduling details and dial-in info, please refer to **[public calendar for viewing](https://calendar.google.com/calendar/embed?src=idchd9q6skpvncjc0u24s32h80%40group.calendar.google.com)** and public **[iCal for import](https://calendar.google.com/calendar/ical/idchd9q6skpvncjc0u24s32h80%40group.calendar.google.com/public/basic.ics)**
+
+
 We'll host two types of calls:
  * **Project-specific technical "Workgoup" calls every other week.** These are intended for small-group discussion of
    the evolving specifications, and we're encouraging folks to join these calls  only if you're actively contributing
@@ -30,4 +33,3 @@ We'll host two types of calls:
  * **Cross-project "Checkpoint" calls monthly**. These are community-wide update calls, intended for broader discussion
    including Q&A. We encourage broad attendance and will record calls to ensure that folks can catch up anytime.
  
-For scheduling details and dial-in info, please refer to [public calendar for viewing](https://calendar.google.com/calendar/embed?src=idchd9q6skpvncjc0u24s32h80%40group.calendar.google.com) and public [iCal for import](https://calendar.google.com/calendar/ical/idchd9q6skpvncjc0u24s32h80%40group.calendar.google.com/public/basic.ics)
