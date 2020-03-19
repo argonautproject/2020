@@ -2,7 +2,7 @@
 
 ## Intro
 * For an intro to our 2020 project plan, see [this deck](https://docs.google.com/presentation/d/1OgyYZOfXoP78T-lwiAbeCdlxRRSsNDB_ZCiPZGRFzvs/present)
-* Recording is availabe <link to be provided after March 18 call>
+* Recording is [available on YouTube](https://youtu.be/h18HjsPk6Rc)
 
 ## Projects
 
