@@ -11,7 +11,7 @@
 * **Patient Lists.** Ensure that provider-facing apps can figure out things like "who are the patients I'm seeing today,"
   or "who are the patients I'm responsible for in the hospital right now," or "who are the patients in this ward."
   
-   **Resources:**
+   Patient List Resources:
     - Meetings: Every Other Wednesdays 1-2 PM ET
       - Public [calendar for viewing](https://calendar.google.com/calendar/embed?src=idchd9q6skpvncjc0u24s32h80%40group.calendar.google.com) and [iCal for import](https://calendar.google.com/calendar/ical/idchd9q6skpvncjc0u24s32h80%40group.calendar.google.com/public/basic.ics)
       - https://meet.jit.si/argo2020.lists
