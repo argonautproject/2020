@@ -21,10 +21,8 @@
     - Chat:  https://chat.fhir.org/#narrow/stream/227046-Argo-Patient.20Lists
     - Notes: https://drive.google.com/drive/u/0/folders/116o261X38ZYx4KVqRdAih6-r400Ku1Nf
 
-    Facilitators: 
-    Eric Haas: ehaas@healthedatainc.com
-    Josh Mandel: jmandel@gmail.com
-
+    - Facilitators: 
+      - Eric Haas: ehaas@healthedatainc.com
 
 ## Communications
 
