@@ -7,7 +7,12 @@
 ## Projects
 
 * **Bulk Data**. Enhance the FHIR Bulk Data API based on real-world experience, to be ready for regulatory requirements that come online in 2022.
+  * Zulip stream: https://chat.fhir.org/#narrow/stream/179250-bulk-data/topic/Argonaut.20Announcements
+  * Meeting notes, etc: https://drive.google.com/drive/folders/1qFamLGExIN7aPS89JiEHSN5nmDWyHHB4
 * **Granular Controls.** Expand the SMART App Launch Framework to support finer-grained access controls.
+  * Zulip stream: https://chat.fhir.org/#narrow/stream/179170-smart/topic/Argonaut.20Announcements
+  * Meeting notes, etc: https://drive.google.com/drive/folders/1ZKfX5gZe3RThX7jLAFUjYSLLtaz2sD3q
+
 * **Patient Lists.** Ensure that provider-facing apps can figure out things like "who are the patients I'm seeing today,"
   or "who are the patients I'm responsible for in the hospital right now," or "who are the patients in this ward."
   
@@ -27,10 +32,6 @@
 ## Communications
 
 Please join the relevant Zulip streams at https://chat.fhir.org to join in discussion and follow progress.
-
-* [Bulk Data](https://chat.fhir.org/#narrow/stream/179250-bulk-data/topic/Argonaut.20Announcements)
-* [Granular Controls](https://chat.fhir.org/#narrow/stream/179170-smart/topic/Argonaut.20Announcements)
-* [Patient Lists](https://chat.fhir.org/#narrow/stream/227046-Argo-Patient.20Lists/topic/Argonaut.20Announcements)
 
 We've also got full meeting notes, slide decks, and surveys for all projects [available in Google Drive](https://drive.google.com/drive/folders/1src1D6ivAIi1WcRgRrOHvm6-VFFnP7yR)
 
